@@ -6,7 +6,7 @@ The purpose of this analysis is to take a look at the data (up to 2020) from cos
 
 ## Results
 
-View interactive version of charts [here](https://sh-4.github.io/Chemicals_in_Cosmetics/)
+*View interactive version of charts [here](https://sh-4.github.io/Chemicals_in_Cosmetics/)*
 
 ### Total Number of Chemicals by Company
 
@@ -159,8 +159,29 @@ The results show:
 
 ## Summary
 
+In summary, it's best to take caution when shopping for beauty items if you are looking to reduce the number of chemicals you absorb into your body from your cosmetic products.
 
-## Limitations
+Reading product labels will help to avoid these purchases, but beware when purchasing from:
+- The following companies:
+    - S+
+    - Coty
+    - NYX Los Angeles Inc
+    - Palladio Beauty Group
+    - Loreal USA
+    - Bare Escentuals Beauty Inc
+    - Revlon Consumer Product Corporation
+- The following brands:
+    - Sephora
+    - Charlotte Tilbury
+    - NYX
+    - Palladio
+    - BareMinerals
+    - Revlon
+    - Sally Hansen
+
+There are several varieties of chemicals used in this dataset, so be sure to research which ones are safe or produce harmful side effects over time. Makeup products are shown as having the highest number of overall chemicals used, and since many consumers are putting their makeup on frequently, it's important you know what you're absorbing into your body on a regular basis.
+
+## Limitations of this Analysis
 
 - This dataset only includes information reported to California Department of Public Health (CDPH), which means this is not an all-inclusive list of cosmetic companies and the chemicals they put into their products
 - There are some discrepancies within the data, such as products being listed as discontinued on a date earlier than the date reported to the CDPH. This could mean that the product was reported for informative purposes only, however, it is unclear from the dataset itself
